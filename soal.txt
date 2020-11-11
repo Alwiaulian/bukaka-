@@ -29,6 +29,7 @@ Array
 [8] => padang nasi makan suka
 [9] => padang nasi makan suka aku
 )
+
 5. $buah = array(
 array( "NAMA"
 array( "NAMA"
@@ -57,4 +58,4 @@ nya Manis
 menambahkan buah Pisang yang harganya 5000 dan rasanya
 buah dan tampilkan Nama Buah dengan urutan secara descending
 menampilkan Nama Buah yang nama buahnya mengandung Huruf "K"
-menampilkan Buah, yang harganya kurang dari 10.000 yang rasa
+menampilkan Buah, yang harganya kurang dari 10.000 yang rasanya manis
